@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "444341049425",
+    "firebase_url": "https://ccvserver-c5e55-default-rtdb.firebaseio.com",
+    "project_id": "ccvserver-c5e55",
+    "storage_bucket": "ccvserver-c5e55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444341049425:android:19fad35a25a99c54338070",
+        "android_client_info": {
+          "package_name": "com.example.ccvapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMequbsLyfPujUQPDUs_liw5njtZtupYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444341049425:android:88e30a7c90801ebd338070",
+        "android_client_info": {
+          "package_name": "com.example.helloworldinvention"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMequbsLyfPujUQPDUs_liw5njtZtupYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

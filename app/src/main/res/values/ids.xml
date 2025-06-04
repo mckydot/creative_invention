@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title_info" type="id" />
+    <item name="name" type="id" />
+    <item name="new_phonenumber" type="id" />
+    <item name="btn_verify" type="id" />
+    <item name="title_dementia" type="id" />
+    <item name="dementia_buttons" type="id" />
+    <item name="title_account" type="id" />
+    <item name="new_id" type="id" />
+    <item name="new_password" type="id" />
+    <item name="confirm_password" type="id" />
+    <item name="tv_toggle_confirm_password" type="id" />
+    <item name="go_back" type="id" />
+    <item name="btn_signup" type="id" />
+</resources>
